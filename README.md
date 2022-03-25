@@ -7,12 +7,5 @@ Therefore, in this project we have considered data from year 2000-2015 for 193 c
  As the data-sets were from WHO, we found no evident errors. Missing data was handled in R software by using Missmap command. The result indicated that most of the missing data was for population, Hepatitis B and GDP. 
 The missing data were from less known countries like Vanuatu, Tonga, Togo, Cabo Verde etc. 
 Finding all data for these countries was difficult and hence, it was decided that we exclude these countries from the final model data-set. The final merged file(final dataset) consists of 22 Columns and 2938 rows which meant 20 predicting variables. 
-All predicting variables was then divided into several broad categories:​Immunization related factors, Mortality factors, Economical factors and Social factors.
+All predicting variables was then divided into several broad categories:​Immunization related factors, Mortality factors, Economical factors and Social factors
 
-Acknowledgements
-The data was collected from WHO and United Nations website with the help of Deeksha Russell and Duan Wang.
-
-Inspiration
-The data-set aims to answer the following key questions:
-
-Does various predicting
